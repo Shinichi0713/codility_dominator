@@ -32,3 +32,7 @@ each element of array A is an integer within the range [−2,147,483,648..2,147,
 
 配列Aのドミネーターは、Aの要素の半分以上に出現する値です。
 多数派を求めるということか
+
+
+![image](https://github.com/Shinichi0713/codility_dominator/assets/61480734/bf233ca6-f132-4f17-bfb8-bb00e744f118)
+
